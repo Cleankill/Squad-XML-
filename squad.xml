@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="ISIS">
+	<name>Jihadists</name>
+	<email>N/A</email>
+	<web>http://www.reddit.com/r/unexpectedjihad/</web>
+	<picture>logo.paa</picture>
+	<title>Jihadists</title>
+	<member id="76561198073990148" nick="ExpectedJihad">
+		<name>N/A</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Aloha Snackbar</remark>
+	</member>
+</squad>
